@@ -10,3 +10,19 @@ of N24News. Place nytimes_dataset.json in the same place and run the py file.
 
 Once finished, the images will be stored in the 'images' folder and the name 
 of images correspond to the 'image_id' in the json file.
+
+Please use this bib to cite our paper if you use N24News in your paper.
+
+```
+@InProceedings{wang-EtAl:2022:LREC3,
+  author    = {Wang, Zhen  and  Shan, Xu  and  Zhang, Xiangxie  and  Yang, Jie},
+  title     = {N24News: A New Dataset for Multimodal News Classification},
+  booktitle      = {Proceedings of the Language Resources and Evaluation Conference},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {6768--6775},
+  url       = {https://aclanthology.org/2022.lrec-1.729}
+}
+```
