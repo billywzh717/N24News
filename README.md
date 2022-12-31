@@ -1,6 +1,6 @@
 # N24News
  
-This is the code for our paper [N24News: A New Dataset for Multimodal News Classification](https://arxiv.org/pdf/2108.13327.pdf),
+This is the code for our paper [N24News: A New Dataset for Multimodal News Classification](https://aclanthology.org/2022.lrec-1.729),
 which has been accepted by the 13th Conference on Language Resources and Evaluation (LREC 2022).
 
 ## Build complete dataset
