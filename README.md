@@ -11,6 +11,8 @@ of N24News. Place nytimes_dataset.json in the same place and run the py file.
 Once finished, the images will be stored in the 'images' folder and the name 
 of images correspond to the 'image_id' in the json file.
 
+And here is the direct download link for N24News in Google Drive https://drive.google.com/file/d/1OS1fXwZ1Vsj70lEQajccyssxQRYp5X9D/view?usp=share_link
+
 Please use this bib to cite our paper if you use N24News in your paper.
 
 ```
