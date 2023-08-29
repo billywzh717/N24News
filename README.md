@@ -13,6 +13,8 @@ of images correspond to the 'image_id' in the json file.
 
 And here is the direct download link for N24News in Google Drive https://drive.google.com/file/d/1OS1fXwZ1Vsj70lEQajccyssxQRYp5X9D/view?usp=share_link
 
+And the Baidu Cloud link is https://pan.baidu.com/s/1wb6-9IrydjAi03_P3l0u9w 提取码: qaib
+
 Please use this bib to cite our paper if you use N24News in your paper.
 
 ```
